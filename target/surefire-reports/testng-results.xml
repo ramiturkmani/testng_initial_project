@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-06-07T13:51:01 CDT" name="Regression" finished-at="2022-06-07T13:51:24 CDT" duration-ms="23164">
+    <groups>
+    </groups>
+    <test started-at="2022-06-07T13:51:01 CDT" name="All Functionalities" finished-at="2022-06-07T13:51:24 CDT" duration-ms="23164">
+      <class name="scripts._01_CarsTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:01 CDT" name="setup" finished-at="2022-06-07T13:51:02 CDT" duration-ms="1382" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInPageValidation()[pri:1, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:02 CDT" name="signInPageValidation" description="TASK-1" finished-at="2022-06-07T13:51:09 CDT" duration-ms="6452" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInPageValidation -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:09 CDT" name="teardown" finished-at="2022-06-07T13:51:09 CDT" duration-ms="469" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:09 CDT" name="setup" finished-at="2022-06-07T13:51:10 CDT" duration-ms="881" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="signInSocialMedia()[pri:2, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:10 CDT" name="signInSocialMedia" description="TASK-2" finished-at="2022-06-07T13:51:16 CDT" duration-ms="5859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInSocialMedia -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:16 CDT" name="teardown" finished-at="2022-06-07T13:51:16 CDT" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:16 CDT" name="setup" finished-at="2022-06-07T13:51:17 CDT" duration-ms="918" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidSignInCredentials()[pri:3, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:17 CDT" name="invalidSignInCredentials" description="TASK-3" finished-at="2022-06-07T13:51:24 CDT" duration-ms="6662" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidSignInCredentials -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:scripts._01_CarsTest@548ad73b]" started-at="2022-06-07T13:51:24 CDT" name="teardown" finished-at="2022-06-07T13:51:24 CDT" duration-ms="384" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- scripts._01_CarsTest -->
+    </test> <!-- All Functionalities -->
+  </suite> <!-- Regression -->
+</testng-results>
