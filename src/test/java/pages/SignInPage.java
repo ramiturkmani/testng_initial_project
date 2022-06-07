@@ -46,7 +46,7 @@ public class SignInPage {
     @FindBy(css = ".sds-heading--3")
     public WebElement socialHeading;
 
-    @FindBy(css = ".sidebar-social-login li")
+    @FindBy(css = ".sidebar-social-login a")
     public List<WebElement> socialLinks;
 
     @FindBy(className = "sds-notification__content")
